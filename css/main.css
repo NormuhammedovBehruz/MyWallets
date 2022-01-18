@@ -39,7 +39,7 @@ body {
 }
 
 .content::-webkit-scrollbar-thumb {
-    background-color: darkgrey;
+    background-color: rgb(43, 41, 41);
     border-radius: 10px;
 }
 
@@ -124,7 +124,7 @@ body {
 }
 
 .hero-content-main::-webkit-scrollbar-thumb {
-    background-color: darkgrey;
+    background-color: rgb(43, 41, 41);
     border-radius: 10px;
 }
 
