@@ -1,0 +1,231 @@
+/* Global */
+
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:wght@100;200;300;400;500;600;800&display=swap);
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #e4c76a;
+    font-family: "Open Sans", sans-serif;
+    height: 100%;
+}
+
+.main-content {
+    display: flex;
+    background-color: #fff;
+}
+
+.content {
+    background-color: rgb(206, 199, 199);
+    padding: 30px;
+    overflow-y: scroll;
+    height: 420px;
+}
+
+.content::-webkit-scrollbar {
+    width: 8px;
+    border-radius: 10px;
+}
+
+.content::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    border-radius: 10px;
+}
+
+.content-div4 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.content-heading {
+    margin: 0;
+    margin-right: auto;
+    font-family: "Opan Sans", sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.visa {
+    background-color: #fff;
+    padding: 10px 50px 10px 10px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+.visa-heading-logo {
+    margin-bottom: 10px;
+}
+
+.visa-heading {
+    margin: 0;
+    font-family: "Opan Sans", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.visa-heding {
+    margin: 0;
+    font-family: "Opan Sans", sans-serif;
+    font-weight: 400;
+    font-size: 10px;
+}
+
+.masterocard {
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+.masterocard-heading {
+    margin: 0;
+}
+
+.masterocard-heding {
+    margin: 0;
+}
+
+.mastero {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.mastero-heading {
+    margin: 0;
+}
+
+.mastero-heidng {
+    margin: 0;
+}
+
+.hero-content-main {
+    padding: 20px 30px;
+    overflow-y: scroll;
+    height: 420px;
+}
+
+.hero-content-main::-webkit-scrollbar {
+    width: 8px;
+    border-radius: 10px;
+}
+
+.hero-content-main::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    border-radius: 10px;
+}
+
+.main-content-hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.main-content-hero-heading {
+    margin: 0;
+    margin-right: 100px;
+    font-family: "Opan Sans", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.main-content-hero-heding {
+    margin: 0;
+}
+
+.rectangle {
+    margin-bottom: 30px;
+}
+
+.main-content-hero-div1 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.main-content-hero-div-logo {
+    margin-right: 20px;
+    border: 1px solid #888;
+    padding: 5px;
+    border-radius: 50%;
+    box-sizing: content-box;
+}
+
+.div5 {
+    margin-right: auto;
+}
+
+.main-content-hero-list-heading {
+    margin: 0;
+    margin-bottom: 5px;
+    font-family: "Opan Sans", sans-serif;
+    font-weight: 900;
+    font-size: 17px;
+}
+
+.main-content-list-text {
+    margin: 0;
+    font-family: "Opan Sans", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.main-content-hero-list-heding {
+    margin: 0;
+    color: #0000ff;
+}
+
+.main-content-hero-list-sup {
+    color: #0000ff;
+}
+
+.main-content-hero-div2 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.main-content-hero-list-heeding {
+    color: #008000;
+}
+
+.main-content-hero-list-suup {
+    color: #008000;
+}
+
+.main-content-hero-div3 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.main-content-hero-div4 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.main-content-hero-div6 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.main-content-hero-div7 {
+    display: flex;
+    align-items: center;
+}
